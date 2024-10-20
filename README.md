@@ -54,12 +54,13 @@ This is a real-time weather monitoring application that allows users to fetch cu
 1. Ensure that both frontend and backend are running.
 2. Open your browser and navigate to `index.html`.
 3. Enter a city name and click "Get Weather" to fetch data.
+4. The API endpoint is checked using Postman and the JSON result is shown below
+![weatherapp](https://github.com/user-attachments/assets/912098d5-130c-4c2c-81fe-e4cda64fe548)
+
 
 ## Deployment
 
 - The backend can be deployed on any cloud platform supporting Java applications (e.g., AWS, Heroku).
 - The frontend can be hosted on platforms like GitHub Pages, Netlify, or Vercel.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# The weather application is fully functional. For any issues or information contact me through my email debdutta.basu.2020@gmail.com
